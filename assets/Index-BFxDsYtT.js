@@ -1,0 +1,1 @@
+import{_ as o,c as n,o as r,a as s,b as a,w as l,d as c,r as d,F as _}from"./index-Cc0CbDsX.js";const m={};function u(f,e){const t=d("router-link");return r(),n(_,null,[s(t,{to:"/"},{default:l(()=>[...e[0]||(e[0]=[c(" To Home ",-1)])]),_:1}),e[1]||(e[1]=a("h2",null," Event ",-1))],64)}const p=o(m,[["render",u]]);export{p as default};
